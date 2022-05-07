@@ -1,9 +1,9 @@
 ## Alunos
-Paulo Henrique de Lima Sabra - RM: 341016
-Vitor Canevari Spessoto ------ RM: 341025
+- Paulo Henrique de Lima Sabra - RM: 341016
+- Vitor Canevari Spessoto ------ RM: 341025
 
-### Sobre o projeto
-## Arquitetura
+## Sobre o projeto
+### Arquitetura
 - O Petclinics utiliza a arquitetura MVC (Model-View-Controller). Tal arquitetura se baseia em 3 principais pontos:
     1. Model: É responsável pelo "esqueleto" dos dados na aplicação.
         * Exemplo: 
